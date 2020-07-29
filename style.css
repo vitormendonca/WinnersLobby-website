@@ -119,9 +119,6 @@ header ul li a:hover {
     margin: 50px 0 100px 0;
 }
 
-p {
-    line-height: 1.5em;
-}
 
 /*soccer section*/
 h2 {
@@ -179,7 +176,7 @@ h2 {
 #content p {
     position: relative;
     font-family: 'Nunito', Arial, Helvetica, sans-serif;
-    line-height: 1em;
+    line-height: 1.8em;
     color: #000;
     margin-bottom: 20px;
 }
